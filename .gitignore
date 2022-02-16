@@ -10,4 +10,5 @@
 .ipython
 __pycache__
 .python_history
+.pycache*
 Manifest.toml
