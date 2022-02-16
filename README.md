@@ -5,6 +5,6 @@ WIP: Porting rENA to Python
 
 ## Installation
 
-```python
+```sh
 pip install -e git+https://github.com/EducationalSciences693/pyena#egg=pyena
 ```
