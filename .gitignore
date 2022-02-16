@@ -1,0 +1,13 @@
+.bash*
+.profile
+.jupyter*
+.config
+.ipynb*
+.cache
+.config
+.local
+.gitconfig
+.ipython
+__pycache__
+.python_history
+Manifest.toml
